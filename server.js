@@ -5,7 +5,7 @@ const app = express();
 
 app.set("view engine","ejs");
 app.get('/',(req,res)=>{
-    res.send("Ćao Mimi, kako si za mace?");
+    res.send("******Ćao Mimi, kako si za mace  ***?");
 }
 )
 
